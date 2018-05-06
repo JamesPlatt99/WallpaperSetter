@@ -709,11 +709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LocalProjects\\RedditWallpaperPicker\\WallpaperSetter\\Wallpaper Picker\\Wallpaper Picker\\Wallpaper Picker.csproj",
+      "projectUniqueName": "c:\\LocalProjects\\WallpaperSetter\\Wallpaper Picker\\Wallpaper Picker.csproj",
       "projectName": "Wallpaper Picker",
-      "projectPath": "C:\\LocalProjects\\RedditWallpaperPicker\\WallpaperSetter\\Wallpaper Picker\\Wallpaper Picker\\Wallpaper Picker.csproj",
+      "projectPath": "c:\\LocalProjects\\WallpaperSetter\\Wallpaper Picker\\Wallpaper Picker.csproj",
       "packagesPath": "C:\\Users\\JamesPlatt\\.nuget\\packages\\",
-      "outputPath": "C:\\LocalProjects\\RedditWallpaperPicker\\WallpaperSetter\\Wallpaper Picker\\Wallpaper Picker\\obj\\",
+      "outputPath": "c:\\LocalProjects\\WallpaperSetter\\Wallpaper Picker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

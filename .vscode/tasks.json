@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/Wallpaper Picker/Wallpaper Picker.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
