@@ -1,0 +1,19 @@
+C:\LocalProjects\Wallpaper Picker\Wallpaper Picker\Wallpaper Picker\bin\Debug\netcoreapp2.0\Wallpaper Picker.deps.json
+C:\LocalProjects\Wallpaper Picker\Wallpaper Picker\Wallpaper Picker\bin\Debug\netcoreapp2.0\Wallpaper Picker.runtimeconfig.json
+C:\LocalProjects\Wallpaper Picker\Wallpaper Picker\Wallpaper Picker\bin\Debug\netcoreapp2.0\Wallpaper Picker.runtimeconfig.dev.json
+C:\LocalProjects\Wallpaper Picker\Wallpaper Picker\Wallpaper Picker\bin\Debug\netcoreapp2.0\Wallpaper Picker.dll
+C:\LocalProjects\Wallpaper Picker\Wallpaper Picker\Wallpaper Picker\obj\Debug\netcoreapp2.0\Wallpaper Picker.csprojResolveAssemblyReference.cache
+C:\LocalProjects\Wallpaper Picker\Wallpaper Picker\Wallpaper Picker\obj\Debug\netcoreapp2.0\Wallpaper Picker.csproj.CoreCompileInputs.cache
+C:\LocalProjects\Wallpaper Picker\Wallpaper Picker\Wallpaper Picker\obj\Debug\netcoreapp2.0\Wallpaper Picker.AssemblyInfoInputs.cache
+C:\LocalProjects\Wallpaper Picker\Wallpaper Picker\Wallpaper Picker\obj\Debug\netcoreapp2.0\Wallpaper Picker.AssemblyInfo.cs
+C:\LocalProjects\RedditWallpaperPicker\WallpaperSetter\Wallpaper Picker\Wallpaper Picker\bin\Debug\netcoreapp2.0\Wallpaper Picker.deps.json
+C:\LocalProjects\RedditWallpaperPicker\WallpaperSetter\Wallpaper Picker\Wallpaper Picker\bin\Debug\netcoreapp2.0\Wallpaper Picker.runtimeconfig.json
+C:\LocalProjects\RedditWallpaperPicker\WallpaperSetter\Wallpaper Picker\Wallpaper Picker\bin\Debug\netcoreapp2.0\Wallpaper Picker.runtimeconfig.dev.json
+C:\LocalProjects\RedditWallpaperPicker\WallpaperSetter\Wallpaper Picker\Wallpaper Picker\bin\Debug\netcoreapp2.0\Wallpaper Picker.dll
+C:\LocalProjects\RedditWallpaperPicker\WallpaperSetter\Wallpaper Picker\Wallpaper Picker\bin\Debug\netcoreapp2.0\Wallpaper Picker.pdb
+C:\LocalProjects\RedditWallpaperPicker\WallpaperSetter\Wallpaper Picker\Wallpaper Picker\obj\Debug\netcoreapp2.0\Wallpaper Picker.csprojResolveAssemblyReference.cache
+C:\LocalProjects\RedditWallpaperPicker\WallpaperSetter\Wallpaper Picker\Wallpaper Picker\obj\Debug\netcoreapp2.0\Wallpaper Picker.csproj.CoreCompileInputs.cache
+C:\LocalProjects\RedditWallpaperPicker\WallpaperSetter\Wallpaper Picker\Wallpaper Picker\obj\Debug\netcoreapp2.0\Wallpaper Picker.AssemblyInfoInputs.cache
+C:\LocalProjects\RedditWallpaperPicker\WallpaperSetter\Wallpaper Picker\Wallpaper Picker\obj\Debug\netcoreapp2.0\Wallpaper Picker.AssemblyInfo.cs
+C:\LocalProjects\RedditWallpaperPicker\WallpaperSetter\Wallpaper Picker\Wallpaper Picker\obj\Debug\netcoreapp2.0\Wallpaper Picker.dll
+C:\LocalProjects\RedditWallpaperPicker\WallpaperSetter\Wallpaper Picker\Wallpaper Picker\obj\Debug\netcoreapp2.0\Wallpaper Picker.pdb
