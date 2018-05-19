@@ -1,0 +1,11 @@
+C:\LocalProjects\WallpaperSetter\Wallpaper Picker\bin\Release\netcoreapp2.0\Wallpaper Picker.deps.json
+C:\LocalProjects\WallpaperSetter\Wallpaper Picker\bin\Release\netcoreapp2.0\Wallpaper Picker.runtimeconfig.json
+C:\LocalProjects\WallpaperSetter\Wallpaper Picker\bin\Release\netcoreapp2.0\Wallpaper Picker.runtimeconfig.dev.json
+C:\LocalProjects\WallpaperSetter\Wallpaper Picker\bin\Release\netcoreapp2.0\Wallpaper Picker.dll
+C:\LocalProjects\WallpaperSetter\Wallpaper Picker\bin\Release\netcoreapp2.0\Wallpaper Picker.pdb
+C:\LocalProjects\WallpaperSetter\Wallpaper Picker\obj\Release\netcoreapp2.0\Wallpaper Picker.csprojResolveAssemblyReference.cache
+C:\LocalProjects\WallpaperSetter\Wallpaper Picker\obj\Release\netcoreapp2.0\Wallpaper Picker.csproj.CoreCompileInputs.cache
+C:\LocalProjects\WallpaperSetter\Wallpaper Picker\obj\Release\netcoreapp2.0\Wallpaper Picker.AssemblyInfoInputs.cache
+C:\LocalProjects\WallpaperSetter\Wallpaper Picker\obj\Release\netcoreapp2.0\Wallpaper Picker.AssemblyInfo.cs
+C:\LocalProjects\WallpaperSetter\Wallpaper Picker\obj\Release\netcoreapp2.0\Wallpaper Picker.dll
+C:\LocalProjects\WallpaperSetter\Wallpaper Picker\obj\Release\netcoreapp2.0\Wallpaper Picker.pdb

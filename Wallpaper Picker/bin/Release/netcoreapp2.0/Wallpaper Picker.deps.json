@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "09dc45980751677966d380c0f0669be981705424"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Wallpaper Picker/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "RestSharp": "106.2.2"
+        },
+        "runtime": {
+          "Wallpaper Picker.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "RestSharp/106.2.2": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wallpaper Picker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "RestSharp/106.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PEz5Wy6W7phha9pvvxmIntYb2tQTvWwm4G0JlOMFApBtzNfFLxLqJxhZG7Fd+78JJvyRiqGGQtjtW6Hc86PTag==",
+      "path": "restsharp/106.2.2",
+      "hashPath": "restsharp.106.2.2.nupkg.sha512"
+    }
+  }
+}
