@@ -12,11 +12,11 @@ namespace Wallpaper_Picker
         #region enumeration
         public enum SubredditSource
         {
-            random = 0,
-            earthPorn = 1,
-            spacePorn = 2,
-            wallpapers = 3,
-            villagePorn = 4
+            random = 999,
+            earthPorn = 0,
+            spacePorn = 1,
+            wallpapers = 2,
+            villagePorn = 3
         }
 
         #endregion
@@ -28,21 +28,27 @@ namespace Wallpaper_Picker
         {
             get
             {
-                switch (_selectedSource)
+                if (_selectedSource == (int)SubredditSource.random) 
                 {
-                    case 1:
-                        return "https://www.reddit.com/r/EarthPorn/";
-                    case 2:
-                        return "https://www.reddit.com/r/spaceporn/";
-                    case 3:
-                        return "https://www.reddit.com/r/wallpapers/";
-                    case 4:
-                        return "https://www.reddit.com/r/VillagePorn/";
-                    default:
-                        Random rnd = new Random();
-                        _selectedSource = rnd.Next(1, 4);
-                        return _selectedSourceURL;
+                    Random rnd = new Random();
+                    _selectedSource = rnd.Next(0, _sources.Count());
                 }
+                return Sources[_selectedSource]; 
+            }
+        }
+        private List<String> _sources;
+        private List<String> Sources{
+            get{
+                if(_sources == null)
+                {
+                    _sources = new List<String>()
+                            {"https://www.reddit.com/r/EarthPorn/",
+                             "https://www.reddit.com/r/spaceporn/",
+                             "https://www.reddit.com/r/wallpapers/",
+                             "https://www.reddit.com/r/VillagePorn/"
+                            }.ToList();
+                }
+                return _sources ;
             }
         }
         #endregion
