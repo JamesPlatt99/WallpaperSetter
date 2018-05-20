@@ -7,8 +7,8 @@ namespace Wallpaper_Picker
         const String _downloadLocation = @"c:\Wallpapers";
 
         static void Main(string[] args)
-        {
-            var imageRetriever = new ImageRetriever();
+        {        
+            var imageRetriever = new ImageRetriever(GetSelectedSource(args));
             var imageDownloader = new ImageDownloader(_downloadLocation);
             var wallpaperSetter = new WallpaperSetter(_downloadLocation);
 
@@ -18,6 +18,15 @@ namespace Wallpaper_Picker
                 imageDownloader.UpdateWallpaperFile(url);
                 wallpaperSetter.UpdateWallpaper();
             }
+        }
+
+        static ImageRetriever.SubredditSource GetSelectedSource(string[] args){
+            int output;
+            if(args.Length > 0){
+                int.TryParse(args[0], out output);
+                return (ImageRetriever.SubredditSource)output;
+            }
+            return ImageRetriever.SubredditSource.random;
         }
     }
 }
