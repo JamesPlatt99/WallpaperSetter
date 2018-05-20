@@ -31,7 +31,7 @@ namespace Wallpaper_Picker
                 if (_selectedSource == (int)SubredditSource.random) 
                 {
                     Random rnd = new Random();
-                    _selectedSource = rnd.Next(0, _sources.Count());
+                    _selectedSource = rnd.Next(0, Sources.Count());
                 }
                 return Sources[_selectedSource]; 
             }
