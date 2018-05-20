@@ -14,3 +14,306 @@ Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.dll
 Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.pdb
 Wallpaper Picker/obj/Release/netcoreapp2.0/Wallpaper Picker.dll
 Wallpaper Picker/obj/Release/netcoreapp2.0/Wallpaper Picker.pdb
+Wallpaper Picker/bin/Debug/netcoreapp2.0/Wallpaper Picker.runtimeconfig.dev.json
+Wallpaper Picker/bin/Debug/netcoreapp2.0/Wallpaper Picker.dll
+Wallpaper Picker/bin/Debug/netcoreapp2.0/Wallpaper Picker.pdb
+Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.pdb
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/Wallpaper Picker.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/Wallpaper Picker.exe
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/Wallpaper Picker.pdb
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/Wallpaper Picker.deps.json
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/Wallpaper Picker.runtimeconfig.json
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/Wallpaper Picker.runtimeconfig.dev.json
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/hostfxr.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/hostpolicy.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/Microsoft.CSharp.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/Microsoft.DiaSymReader.Native.amd64.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/Microsoft.VisualBasic.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/Microsoft.Win32.Primitives.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/Microsoft.Win32.Registry.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/Newtonsoft.Json.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/RestSharp.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/SOS.NETCore.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.AppContext.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Buffers.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Collections.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Collections.Concurrent.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Collections.Immutable.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Collections.NonGeneric.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Collections.Specialized.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.ComponentModel.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.ComponentModel.Annotations.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.ComponentModel.Composition.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.ComponentModel.DataAnnotations.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.ComponentModel.EventBasedAsync.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.ComponentModel.Primitives.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.ComponentModel.TypeConverter.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Configuration.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Console.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Core.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Data.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Data.Common.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Diagnostics.Contracts.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Diagnostics.Debug.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Diagnostics.DiagnosticSource.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Diagnostics.FileVersionInfo.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Diagnostics.Process.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Diagnostics.StackTrace.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Diagnostics.TextWriterTraceListener.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Diagnostics.Tools.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Diagnostics.TraceSource.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Diagnostics.Tracing.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Drawing.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Drawing.Primitives.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Dynamic.Runtime.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Globalization.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Globalization.Calendars.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Globalization.Extensions.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.IO.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.IO.Compression.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.IO.Compression.FileSystem.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.IO.Compression.ZipFile.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.IO.FileSystem.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.IO.FileSystem.AccessControl.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.IO.FileSystem.DriveInfo.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.IO.FileSystem.Primitives.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.IO.FileSystem.Watcher.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.IO.IsolatedStorage.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.IO.MemoryMappedFiles.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.IO.Pipes.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.IO.UnmanagedMemoryStream.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Linq.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Linq.Expressions.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Linq.Parallel.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Linq.Queryable.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.Http.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.HttpListener.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.Mail.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.NameResolution.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.NetworkInformation.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.Ping.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.Primitives.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.Requests.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.Security.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.ServicePoint.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.Sockets.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.WebClient.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.WebHeaderCollection.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.WebProxy.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.WebSockets.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Net.WebSockets.Client.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Numerics.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Numerics.Vectors.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.ObjectModel.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Private.CoreLib.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Private.DataContractSerialization.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Private.Uri.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Private.Xml.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Private.Xml.Linq.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Reflection.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Reflection.DispatchProxy.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Reflection.Emit.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Reflection.Emit.ILGeneration.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Reflection.Emit.Lightweight.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Reflection.Extensions.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Reflection.Metadata.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Reflection.Primitives.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Reflection.TypeExtensions.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Resources.Reader.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Resources.ResourceManager.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Resources.Writer.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.CompilerServices.VisualC.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.Extensions.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.Handles.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.InteropServices.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.InteropServices.RuntimeInformation.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.InteropServices.WindowsRuntime.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.Loader.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.Numerics.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.Serialization.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.Serialization.Formatters.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.Serialization.Json.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.Serialization.Primitives.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Runtime.Serialization.Xml.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Security.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Security.AccessControl.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Security.Claims.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Security.Cryptography.Algorithms.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Security.Cryptography.Cng.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Security.Cryptography.Csp.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Security.Cryptography.Encoding.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Security.Cryptography.OpenSsl.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Security.Cryptography.Primitives.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Security.Cryptography.X509Certificates.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Security.Principal.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Security.Principal.Windows.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Security.SecureString.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.ServiceModel.Web.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.ServiceProcess.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Text.Encoding.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Text.Encoding.Extensions.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Text.RegularExpressions.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Threading.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Threading.Overlapped.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Threading.Tasks.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Threading.Tasks.Dataflow.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Threading.Tasks.Extensions.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Threading.Tasks.Parallel.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Threading.Thread.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Threading.ThreadPool.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Threading.Timer.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Transactions.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Transactions.Local.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.ValueTuple.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Web.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Web.HttpUtility.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Windows.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Xml.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Xml.Linq.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Xml.ReaderWriter.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Xml.Serialization.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Xml.XDocument.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Xml.XPath.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Xml.XPath.XDocument.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Xml.XmlDocument.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/System.Xml.XmlSerializer.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/Wallpaper Picker.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/Wallpaper Picker.exe
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/Wallpaper Picker.pdb
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/Wallpaper Picker.deps.json
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/Wallpaper Picker.runtimeconfig.json
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/WindowsBase.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-console-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-datetime-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-debug-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-errorhandling-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-file-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-file-l1-2-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-file-l2-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-handle-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-heap-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-interlocked-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-libraryloader-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-localization-l1-2-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-memory-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-namedpipe-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-processenvironment-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-processthreads-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-processthreads-l1-1-1.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-profile-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-rtlsupport-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-string-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-synch-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-synch-l1-2-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-sysinfo-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-timezone-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-core-util-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-conio-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-convert-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-environment-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-filesystem-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-heap-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-locale-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-math-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-multibyte-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-private-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-process-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-runtime-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-stdio-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-string-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-time-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/api-ms-win-crt-utility-l1-1-0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/clrcompression.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/clretwrc.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/clrjit.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/coreclr.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/dbgshim.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/hostfxr.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/hostpolicy.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/mscordaccore.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/mscordaccore_amd64_amd64_4.6.00001.0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/mscordbi.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/mscorlib.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/mscorrc.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/mscorrc.debug.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/netstandard.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/sos.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/sos_amd64_amd64_4.6.00001.0.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/win10-x64/publish/ucrtbase.dll
+Wallpaper Picker/obj/Wallpaper Picker.csproj.nuget.cache
+Wallpaper Picker/obj/Wallpaper Picker.csproj.nuget.g.props
+Wallpaper Picker/obj/project.assets.json
+Wallpaper Picker/obj/Debug/netcoreapp2.0/Wallpaper Picker.dll
+Wallpaper Picker/obj/Debug/netcoreapp2.0/Wallpaper Picker.pdb
+Wallpaper Picker/obj/Release/netcoreapp2.0/Wallpaper Picker.dll
+Wallpaper Picker/obj/Release/netcoreapp2.0/Wallpaper Picker.pdb
+Wallpaper Picker/obj/Release/netcoreapp2.0/Wallpaper Picker.csproj.FileListAbsolute.txt
+Wallpaper Picker/obj/Release/netcoreapp2.0/win10-x64/Wallpaper Picker.dll
+Wallpaper Picker/obj/Release/netcoreapp2.0/win10-x64/Wallpaper Picker.pdb
+Wallpaper Picker/obj/Release/netcoreapp2.0/win10-x64/Wallpaper Picker.AssemblyInfo.cs
+Wallpaper Picker/obj/Release/netcoreapp2.0/win10-x64/Wallpaper Picker.AssemblyInfoInputs.cache
+Wallpaper Picker/obj/Release/netcoreapp2.0/win10-x64/Wallpaper Picker.csproj.CoreCompileInputs.cache
+Wallpaper Picker/obj/Release/netcoreapp2.0/win10-x64/Wallpaper Picker.csproj.FileListAbsolute.txt
+Wallpaper Picker/obj/netcoreapp2.0/win10-x64/host/Wallpaper Picker.exe
+Wallpaper Picker/obj/Release/netcoreapp2.0/win10-x64/Wallpaper Picker.csprojAssemblyReference.cache
+Wallpaper Picker/bin/Debug/netcoreapp2.0/Wallpaper Picker.dll
+Wallpaper Picker/bin/Debug/netcoreapp2.0/Wallpaper Picker.pdb
+Wallpaper Picker/bin/Debug/netcoreapp2.0/Wallpaper Picker.runtimeconfig.dev.json
+Wallpaper Picker/bin/Debug/netcoreapp2.0/win10-x64/Wallpaper Picker.dll
+Wallpaper Picker/bin/Debug/netcoreapp2.0/win10-x64/Wallpaper Picker.exe
+Wallpaper Picker/bin/Debug/netcoreapp2.0/win10-x64/Wallpaper Picker.pdb
+Wallpaper Picker/bin/Debug/netcoreapp2.0/win10-x64/Wallpaper Picker.deps.json
+Wallpaper Picker/bin/Debug/netcoreapp2.0/win10-x64/Wallpaper Picker.runtimeconfig.json
+Wallpaper Picker/bin/Debug/netcoreapp2.0/win10-x64/Wallpaper Picker.runtimeconfig.dev.json
+Wallpaper Picker/bin/Debug/netcoreapp2.0/win10-x64/hostfxr.dll
+Wallpaper Picker/bin/Debug/netcoreapp2.0/win10-x64/hostpolicy.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.pdb
+Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.deps.json
+Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.runtimeconfig.json
+Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.runtimeconfig.dev.json
+Wallpaper Picker/obj/Wallpaper Picker.csproj.nuget.cache
+Wallpaper Picker/obj/Wallpaper Picker.csproj.nuget.g.props
+Wallpaper Picker/obj/project.assets.json
+Wallpaper Picker/obj/Debug/netcoreapp2.0/Wallpaper Picker.dll
+Wallpaper Picker/obj/Debug/netcoreapp2.0/Wallpaper Picker.pdb
+Wallpaper Picker/obj/Debug/netcoreapp2.0/Wallpaper Picker.csproj.FileListAbsolute.txt
+Wallpaper Picker/obj/Debug/netcoreapp2.0/Wallpaper Picker.csprojAssemblyReference.cache
+Wallpaper Picker/obj/Debug/netcoreapp2.0/Wallpaper Picker.csprojResolveAssemblyReference.cache
+Wallpaper Picker/obj/Debug/netcoreapp2.0/win10-x64/Wallpaper Picker.dll
+Wallpaper Picker/obj/Debug/netcoreapp2.0/win10-x64/Wallpaper Picker.pdb
+Wallpaper Picker/obj/Debug/netcoreapp2.0/win10-x64/Wallpaper Picker.AssemblyInfo.cs
+Wallpaper Picker/obj/Debug/netcoreapp2.0/win10-x64/Wallpaper Picker.AssemblyInfoInputs.cache
+Wallpaper Picker/obj/Debug/netcoreapp2.0/win10-x64/Wallpaper Picker.csproj.CoreCompileInputs.cache
+Wallpaper Picker/obj/Debug/netcoreapp2.0/win10-x64/Wallpaper Picker.csproj.FileListAbsolute.txt
+Wallpaper Picker/obj/Debug/netcoreapp2.0/win10-x64/Wallpaper Picker.csprojAssemblyReference.cache
+Wallpaper Picker/obj/Release/netcoreapp2.0/Wallpaper Picker.dll
+Wallpaper Picker/obj/Release/netcoreapp2.0/Wallpaper Picker.pdb
+Wallpaper Picker/obj/Release/netcoreapp2.0/Wallpaper Picker.csproj.FileListAbsolute.txt
+Wallpaper Picker/obj/Release/netcoreapp2.0/Wallpaper Picker.csproj.FileListAbsolute.txt
+.vs/Wallpaper Picker/v15/.suo
+.vs/Wallpaper Picker/v15/Server/sqlite3/db.lock
+.vs/Wallpaper Picker/v15/Server/sqlite3/storage.ide
+.vs/Wallpaper Picker/v15/Server/sqlite3/storage.ide-shm
+.vs/Wallpaper Picker/v15/Server/sqlite3/storage.ide-wal
+Wallpaper Picker/bin/Debug/netcoreapp2.0/Wallpaper Picker.dll
+Wallpaper Picker/bin/Debug/netcoreapp2.0/Wallpaper Picker.pdb
+Wallpaper Picker/bin/Debug/netcoreapp2.0/Wallpaper Picker.runtimeconfig.dev.json
+Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.dll
+Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.pdb
+Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.deps.json
+Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.runtimeconfig.json
+Wallpaper Picker/bin/Release/netcoreapp2.0/Wallpaper Picker.runtimeconfig.dev.json
+Wallpaper Picker/obj/Wallpaper Picker.csproj.nuget.cache
+Wallpaper Picker/obj/Wallpaper Picker.csproj.nuget.g.props
+Wallpaper Picker/obj/project.assets.json
+Wallpaper Picker/obj/Debug/netcoreapp2.0/Wallpaper Picker.dll
+Wallpaper Picker/obj/Debug/netcoreapp2.0/Wallpaper Picker.pdb
+Wallpaper Picker/obj/Debug/netcoreapp2.0/Wallpaper Picker.csproj.FileListAbsolute.txt
+Wallpaper Picker/obj/Debug/netcoreapp2.0/Wallpaper Picker.csprojResolveAssemblyReference.cache
+Wallpaper Picker/obj/Release/netcoreapp2.0/Wallpaper Picker.dll
+Wallpaper Picker/obj/Release/netcoreapp2.0/Wallpaper Picker.pdb

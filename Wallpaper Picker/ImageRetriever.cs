@@ -84,6 +84,7 @@ namespace Wallpaper_Picker
             var request = new RestRequest(".json", Method.GET);
             var response = client.Execute(request);
             var posts = JsonConvert.DeserializeObject<RootObject>(response.Content).data.children
+                                .Where(n => n.data.preview?.images?.Any() == true)
                                 .Select(n=> n.data.preview.images[0].source)
                                 .Where(n=> ValidateImage(n));
             return posts.Select(n => n.url).ToList();
