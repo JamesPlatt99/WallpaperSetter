@@ -82,12 +82,16 @@ namespace Wallpaper_Picker
         {
             var client = new RestClient(_selectedSourceURL);
             var request = new RestRequest(".json", Method.GET);
+            var rawJsonParam = new Parameter();
+            rawJsonParam.Name = "raw_json";
+            rawJsonParam.Value = 1;
+            request.AddParameter(rawJsonParam);
             var response = client.Execute(request);
             var posts = JsonConvert.DeserializeObject<RootObject>(response.Content).data.children
                                 .Where(n => n.data.preview?.images?.Any() == true)
                                 .Select(n=> n.data.preview.images[0].source)
                                 .Where(n=> ValidateImage(n));
-            return posts.Select(n => n.url).ToList();
+            return posts.Select(n => n.url.Replace("amp;s", "s")).ToList();
         }
 
         private Boolean ValidateImage(Source image)
